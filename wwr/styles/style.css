@@ -210,6 +210,43 @@ footer .social img{
 main section img{
     box-sizing: border-box
 }
+/*page 2 styling*/
+
+.page-2-title{
+    font-size: 2em;
+    text-align:center;
+}
+.msg2{
+    padding: 50px;
+}
+.nav2{
+   color: #587291; 
+}
+.nav2 a:hover{
+    background-color: #587291;
+}
+.header2{
+    background-color: #d9c2a3;
+}
+.pg2img1{
+    width: 30%;
+}
+.pg2img2{
+    width: 30%;
+}
+.pg2img3{
+    width: 30%;
+}
+.pg2img4{
+    width: 30%;
+}
+.pg2img5{
+    width: 30%;
+}
+.pg2img6{
+    width: 30%;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
